@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "bM+xYrTwUPnBqaVzh6ElGfUGuBtkcZWjFTbWsH1mxdehy9O+klHrROPvjddX1YAPQNpKr5774J9HdEx8fHFQpw==",
+  "success": true,
+  "projectFilePath": "E:\\GraduationProjectBackEnd\\GP_ERP_SYSTEM_v1.0\\ERP_Domians\\ERP_Domians.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file E:\\GraduationProjectBackEnd\\GP_ERP_SYSTEM_v1.0\\ERP_Domians\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}
